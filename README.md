@@ -2,4 +2,4 @@
 
 mi primer commit en github
 
-love, icecream, candy, cash
+.love, icecream, candy, cash
